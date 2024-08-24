@@ -7,7 +7,7 @@ public class Q5 {
 
             for (j = 0; j <=9; j++)
             {
-                if()
+                if(j==1)
                 {
                     System.out.println(" * ");
                 }
